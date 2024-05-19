@@ -412,7 +412,7 @@ nav li a.active,
 
 @media screen and (max-width: 1000px) {
     .navbar-toggler {
-        display: block !important;
+        display: contents !important;
     }
 
     .navbar-nav,
