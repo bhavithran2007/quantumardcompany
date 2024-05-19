@@ -1681,7 +1681,7 @@ aside .pages {
 
 .team-slider {
     overflow: hidden;
-    display: flex;
+    display: block;
 }
 
 .team-img {
