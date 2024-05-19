@@ -15,7 +15,7 @@ body{
     width: 1100px;
     height: 100%;
     margin: auto;
-    display: flex;
+    display: block;
     align-items: center;
     justify-content: space-around;
     color: white;
