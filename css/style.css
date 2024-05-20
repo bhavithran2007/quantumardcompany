@@ -1680,8 +1680,8 @@ aside .pages {
 }
 
 .team-slider {
-    overflow: hidden;
-    display: block;
+    overflow: scroll;
+    display: flex;
 }
 
 .team-img {
